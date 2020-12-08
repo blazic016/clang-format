@@ -1,0 +1,8 @@
+{
+    "C_Cpp.clang_format_fallbackStyle": "none",
+    "C_Cpp.clang_format_path": "${env.CLANG_PATH}",
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+}
